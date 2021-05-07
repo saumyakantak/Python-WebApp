@@ -1,0 +1,5 @@
+to run this project
+1. move to this directory
+2. open cmd and execute following commands
+   2.1. Scripts/activate
+   2.2. python run.py
